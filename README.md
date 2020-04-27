@@ -1,0 +1,2 @@
+# Topic-Modelling-with-LDA-and-LSA
+I will be exploring the behaviour of two algorithms for topic modelling. This is Latent Dirichilet Allocation and Latent Semantic Analysis. This is being performed on a dataset that gathers news article headlines from ABC News. The goal is to figure out how each technique behaves and models topics from the same dataset. You can find the most up to date dataset here. https://www.kaggle.com/therohk/million-headlines
